@@ -1,5 +1,7 @@
 # Snatcher (PlayStation) — Traducción al castellano
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/playstation/snatcher)**.
+
 Traducción al *español de España* de **Snatcher** para **PlayStation (SLPS-00154)**, realizada a partir del japonés original del disco.
 
 Descarga: [v0.1-dev — Parche xdelta](https://github.com/johanderohan/snatcher-traduccion-es/releases/tag/v0.1-dev).
